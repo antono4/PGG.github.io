@@ -1,2 +1,26 @@
-Last updated: 2026-08-26 09:07:31 WIB
-Last updated: 2026-08-26 09:39:02 WIB
+# PGG.github.io
+
+
+
+## 📋 Overview
+
+This repository contains **46 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-26 10:01:16 WIB*
